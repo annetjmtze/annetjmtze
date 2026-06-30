@@ -23,6 +23,10 @@ I enjoy learning new tools and applying them to real projects.
   <a href="https://www.facebook.com/annetjaquelyn.martinezespinosa/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 <div align="center">
