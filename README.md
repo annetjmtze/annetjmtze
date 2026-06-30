@@ -8,8 +8,6 @@ I'm passionate about technology, software development, and creating solutions th
 I enjoy learning new tools and applying them to real projects.
 </p>
 
----
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,linux,postgres,aws,tailwind,git,github,vscode" />
@@ -20,15 +18,12 @@ I enjoy learning new tools and applying them to real projects.
 
 </div>
 
----
 
 <div align="center">
   <a href="https://www.facebook.com/annetjaquelyn.martinezespinosa/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
-
----
 
 <div align="center">
 
@@ -43,8 +38,6 @@ I enjoy learning new tools and applying them to real projects.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=annetjmtze&theme=jolly&hide_border=true"/>
 
 </div>
-
----
 
 <div align="center">
 
