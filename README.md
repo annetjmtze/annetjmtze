@@ -1,4 +1,8 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Hey I´m Annet!!</h1>
+
+💻 Information and Communications Technologies Engineering (ICT) Student  
+📍 Instituto Tecnológico de Morelia 
+I'm passionate about technology, software development, and creating solutions through programming, databases, and system design. I enjoy learning new tools and applying them to real projects.
 
 ###
 
