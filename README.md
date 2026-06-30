@@ -1,40 +1,57 @@
-<h1 data-importer="text" align="center">Hey I´m Annet!!</h1>
+<h1 align="center">Hi 👋 I'm Annet!!</h1>
 
-💻 Information and Communications Technologies Engineering (ICT) Student  
-📍 Instituto Tecnológico de Morelia 
-I'm passionate about technology, software development, and creating solutions through programming, databases, and system design. I enjoy learning new tools and applying them to real projects.
+<p align="center">
+💻 Information and Communications Technologies Engineering (ICT) Student <br>
+📍 Instituto Tecnológico de Morelia <br><br>
 
-###
+I'm passionate about technology, software development, and creating solutions through programming, databases, and system design.
+I enjoy learning new tools and applying them to real projects.
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Java" height="60" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgreSQL" height="60" alt="postgreSQL logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c++" height="60" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,linux,postgres,aws,tailwind,git,github,vscode" />
+
+<img src="https://cdn.simpleicons.org/huawei/FF0000"
+     height="48"
+     alt="Huawei"/>
+
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://www.facebook.com/annetjaquelyn.martinezespinosa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
-###
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=annetjmtze&theme=jolly" alt="GitHub Streak" /></a>
+---
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=annetjmtze&show_icons=true&theme=jolly&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annetjmtze&layout=compact&theme=jolly&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=annetjmtze&theme=jolly&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annetjmtze/annetjmtze/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annetjmtze/annetjmtze/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/annetjmtze/annetjmtze/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/annetjmtze/annetjmtze/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
