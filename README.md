@@ -24,7 +24,7 @@ I enjoy learning new tools and applying them to real projects.
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 
-  <a href="[https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/annet-jaquelyn-mart%C3%ADnez-espinosa-76a7733a7/)" target="_blank">
+  <a href="https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/annet-jaquelyn-mart%C3%ADnez-espinosa-76a7733a7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
