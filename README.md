@@ -10,7 +10,7 @@ I enjoy learning new tools and applying them to real projects.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,linux,postgres,aws,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,linux,postgres,aws,django,git,github,vscode" />
 
 <img src="https://cdn.simpleicons.org/huawei/FF0000"
      height="48"
